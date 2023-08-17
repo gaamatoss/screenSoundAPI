@@ -1,0 +1,15 @@
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/bin/Debug/net6.0/screenSoundAPI
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/bin/Debug/net6.0/screenSoundAPI.deps.json
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/bin/Debug/net6.0/screenSoundAPI.runtimeconfig.json
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/bin/Debug/net6.0/screenSoundAPI.dll
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/bin/Debug/net6.0/screenSoundAPI.pdb
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.csproj.AssemblyReference.cache
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.AssemblyInfoInputs.cache
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.AssemblyInfo.cs
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.csproj.CoreCompileInputs.cache
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.dll
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/refint/screenSoundAPI.dll
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.pdb
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/screenSoundAPI.genruntimeconfig.cache
+/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/Debug/net6.0/ref/screenSoundAPI.dll
