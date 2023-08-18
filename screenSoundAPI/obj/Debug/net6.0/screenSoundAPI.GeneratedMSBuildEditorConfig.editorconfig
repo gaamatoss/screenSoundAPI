@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = screenSoundAPI
-build_property.ProjectDir = /Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/
+build_property.ProjectDir = /Users/gabrielmatos/Documents/apps/screenSoundAPI/screenSoundAPI/

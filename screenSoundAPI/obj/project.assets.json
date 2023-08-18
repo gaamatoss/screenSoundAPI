@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/screenSoundAPI.csproj",
+      "projectUniqueName": "/Users/gabrielmatos/Documents/apps/screenSoundAPI/screenSoundAPI/screenSoundAPI.csproj",
       "projectName": "screenSoundAPI",
-      "projectPath": "/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/screenSoundAPI.csproj",
+      "projectPath": "/Users/gabrielmatos/Documents/apps/screenSoundAPI/screenSoundAPI/screenSoundAPI.csproj",
       "packagesPath": "/Users/gabrielmatos/.nuget/packages/",
-      "outputPath": "/Users/gabrielmatos/Projects/screenSoundAPI/screenSoundAPI/obj/",
+      "outputPath": "/Users/gabrielmatos/Documents/apps/screenSoundAPI/screenSoundAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gabrielmatos/.nuget/NuGet/NuGet.Config"
