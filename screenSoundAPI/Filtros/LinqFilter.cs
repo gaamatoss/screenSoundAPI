@@ -37,6 +37,16 @@ namespace screenSoundAPI.Filtros
 				Console.WriteLine($"- {musica}");
 			}
 		}
+
+		public static void FilterByNote(List<Musica> musicas)
+		{
+			var AllMusicByNote = musicas.Where(musica => musica.Tonalidade.Equals("C#")).Select(musica => musica.Nome).ToList();
+			Console.WriteLine("Musicas em C#:");
+			foreach (var musica in AllMusicByNote)
+            {
+                Console.WriteLine($"- {musica}");
+            }
+        }
 	}
 }
 

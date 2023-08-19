@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EB4FB073-B1C6-4543-8ECE-A84560BB5757}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.screenSoundAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="screenSoundAPI/Modelos/MusicasPreferidas.cs">
+    <Files>
+      <File FileName="screenSoundAPI/Modelos/MusicasPreferidas.cs" Line="1" Column="1" />
+      <File FileName="screenSoundAPI/Program.cs" Line="16" Column="63" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="screenSoundAPI">
+            <Node name="screenSoundAPI">
+              <Node name="Modelos" expanded="True">
+                <Node name="MusicasPreferidas.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
